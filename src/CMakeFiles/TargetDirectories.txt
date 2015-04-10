@@ -1,0 +1,5 @@
+C:/Users/Roy/Documents/Visual Studio 2013/Projects/p4new/462deferred/src/application/CMakeFiles/p4.dir
+C:/Users/Roy/Documents/Visual Studio 2013/Projects/p4new/462deferred/src/renderer/CMakeFiles/renderer.dir
+C:/Users/Roy/Documents/Visual Studio 2013/Projects/p4new/462deferred/src/CMakeFiles/ALL_BUILD.dir
+C:/Users/Roy/Documents/Visual Studio 2013/Projects/p4new/462deferred/src/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Roy/Documents/Visual Studio 2013/Projects/p4new/462deferred/src/scene/CMakeFiles/scene.dir

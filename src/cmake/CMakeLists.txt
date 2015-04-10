@@ -4,7 +4,7 @@ list(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_LIST_DIR})
 
 # windows users - set the path to your install here if necessary
 if ( WIN32 )
-list(APPEND CMAKE_PREFIX_PATH "C:\\Program Files (x86)\\SFML")
+list(APPEND CMAKE_PREFIX_PATH "C:\\Users\\Roy\\Documents\\Visual Studio 2013\\Projects\\SFML-2.2")
 endif()
 
 # this will make your code link against static sfml .lib's
